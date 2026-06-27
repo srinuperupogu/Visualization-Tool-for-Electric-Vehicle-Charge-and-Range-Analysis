@@ -21,18 +21,19 @@ This project presents a comprehensive Tableau-based solution for comparing elect
 ---
 
 ## 👥 Team Information
-
-**Team ID**:LTVIP2026TMIDS74497 
-**Project Duration**:28 Jan 2026-20 Feb 2026
-
+**Project Duration**:25 may 2026-07 july 2026
 **Team Members:**
-- N.Pavani – Dashboard design, architecture, Tableau story
-- N.Yaswitha– Performance testing  
-- M.Jhansi– Ideation phase (brainstorming & mapping)  
-- R.Priyanka– Demo video,documentation
-- K.Srinivas-Requirement analysis,dashboard sheet creation
+- Perupogu Srinivas
+  238x1a0594@khitguntur.ac.in
+-Afrin Shaik
+238x1a05a6@khitguntur.ac.in  
+- Nerusu Karthikeya
+238x1a4541@khitguntur.ac.in  
+-Perupogu Sriniavs
+ srinuperupogu195@gmail.com
+- Sri Varshini Velaga
+srivarshini2229@gmail.com
 ---
-
 ## 🔍 Project Highlights
 
 - ✅ 4 Cleaned Datasets (Global, Europe, India, Charging Infra)  
